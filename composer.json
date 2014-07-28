@@ -1,0 +1,21 @@
+{
+    "name": "sbnet/nano-framework-plugin-propel",
+    "type": "library",
+    "description": "The Nano Framework propel plugin",
+    "homepage": "http://www.nano-framework.com",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Stephane BRUN",
+            "email": "stephane@sbnet.fr",
+            "homepage": "http://www.sbnet.fr"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.3",
+        "sbnet/nano-framework": "dev-master"
+    }
+
+
+}
