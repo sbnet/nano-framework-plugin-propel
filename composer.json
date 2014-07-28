@@ -14,8 +14,7 @@
 
     "require": {
         "php": ">=5.3.3",
-        "sbnet/nano-framework": "dev-master"
+        "sbnet/nano-framework": "dev-master",
+        "propel/propel": "2.0.*@dev"
     }
-
-
 }
